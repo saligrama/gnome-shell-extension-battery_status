@@ -1,12 +1,12 @@
 {
   "version": 8,
   "shell-version": [
-    "3.10", "3.12", "3.14", "3.16", "3.18"
+    "3.10", "3.12", "3.14", "3.16", "3.18", "3.20"
   ],
   "settings-schema": "org.gnome.shell.extensions.battery_status",
   "original-author": "roberth@winter-weht.net", 
-  "uuid": "battery_status@milliburn.github.com",
+  "uuid": "battery-status@saligrama.noip.me",
   "name": "Battery Status",
   "description": "A configurable lightweight battery charge indicator and autohider. Includes a few quirky display modes.",
-  "url": "https://github.com/milliburn/gnome-shell-extension-battery_status"
+  "url": "https://github.com/saligrama/gnome-shell-extension-battery_status"
 }
