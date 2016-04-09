@@ -5,8 +5,8 @@ Battery Status
 
 To use the extension, run:
 
-    git clone http://github.com/saligrama/HideOverviewWhenClickOverview
-    zip -r HideOverviewWhenClickOverview.zip HideOverviewWhenClickOverview
+    git clone http://github.com/saligrama/gnome-shell-extension-battery_status
+    zip -r gnome-shell-extension-battery_status.zip gnome-shell-extension-battery_status
 
 Then, go to GNOME tweak tool and install the extension and enable it.
 
